@@ -17,6 +17,7 @@ int main()
         // now using if else statement to make it more clear
         if (n % i == 0)
         {
+            prime =1;
             break;
         } // C cannot print the final answer ("It is prime" or "It is not prime")
         // while checking—it has to wait until all numbers are teste
