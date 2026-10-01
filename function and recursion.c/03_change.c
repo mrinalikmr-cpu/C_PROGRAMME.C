@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+#include <math.h> // to recognise pow( )
 //q) use the library function to calculate thr arae of square with side a
 int main() {
     int a =5;
